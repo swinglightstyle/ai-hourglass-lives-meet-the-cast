@@ -1,3 +1,6 @@
 [submodule "001-hester"]
 	path = 001-hester
 	url = https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-001-hester.git
+[submodule "002-bex"]
+	path = 002-bex
+	url = https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-002-bex.git
