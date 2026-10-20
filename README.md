@@ -48,7 +48,7 @@ If you cloned without the episodes, fetch them with:
 
 <!-- episodes:start -->
 - Episode 1, Hester: [ai-hourglass-lives-meet-the-cast-001-hester](https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-001-hester) in the folder `001-hester`. Video: link to come.
-- Episode 2, Bex: [ai-hourglass-lives-meet-the-cast-002-bex](https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-002-bex) in the folder `002-bex`. Video: link to come.
+- Episode 2, Bex: [ai-hourglass-lives-meet-the-cast-002-bex](https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-002-bex) in the folder `002-bex`. Video: https://youtu.be/4tpIRHGvW1w
 <!-- episodes:end -->
 
 ## Licence
