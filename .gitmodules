@@ -4,3 +4,6 @@
 [submodule "002-bex"]
 	path = 002-bex
 	url = https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-002-bex.git
+[submodule "003-teodor"]
+	path = 003-teodor
+	url = https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-003-teodor.git
