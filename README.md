@@ -51,6 +51,7 @@ If you cloned without the episodes, fetch them with:
 - Episode 2, Bex: [ai-hourglass-lives-meet-the-cast-002-bex](https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-002-bex) in the folder `002-bex`. Video: https://youtu.be/4tpIRHGvW1w
 - Episode 3, Teodor: [ai-hourglass-lives-meet-the-cast-003-teodor](https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-003-teodor) in the folder `003-teodor`. Video: https://youtu.be/2b64qA7lyr0
 - Episode 4, Lucia: [ai-hourglass-lives-meet-the-cast-004-lucia](https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-004-lucia) in the folder `004-lucia`. Video: https://youtu.be/sUH_qJqSJBQ
+- Episode 5, Rohan: [ai-hourglass-lives-meet-the-cast-005-rohan](https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-005-rohan) in the folder `005-rohan`. Video: https://youtu.be/hChvdqZHPMo
 <!-- episodes:end -->
 
 ## Licence

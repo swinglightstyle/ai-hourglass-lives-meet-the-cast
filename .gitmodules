@@ -10,3 +10,6 @@
 [submodule "004-lucia"]
 	path = 004-lucia
 	url = https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-004-lucia.git
+[submodule "005-rohan"]
+	path = 005-rohan
+	url = https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-005-rohan.git
