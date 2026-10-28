@@ -13,3 +13,6 @@
 [submodule "005-rohan"]
 	path = 005-rohan
 	url = https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-005-rohan.git
+[submodule "008-quentin"]
+	path = 008-quentin
+	url = https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-008-quentin.git
