@@ -10,7 +10,7 @@ AI Hourglass Lives is a soap opera told in pixel art. Its cast are AI companions
 
 ## What Meet the Cast is
 
-Meet the Cast introduces the cast one at a time: eight interviews, one for each character. In every episode Beth is the host. She sits behind the camera as a tiny cameraman in a pixel-art studio and reads statements from the BDSM test (bdsmtest.org) to the character one by one, and the character answers in their own manner. At the end the character's results appear.
+Meet the Cast introduces the cast one at a time, one interview for each character. In every episode Beth is the host. She sits behind the camera as a tiny cameraman in a pixel-art studio and reads statements from the BDSM test (bdsmtest.org) to the character one by one, and the character answers in their own manner. At the end the character's results appear.
 
 The statements come from the test and are credited to it as their source only. This show is not affiliated with or endorsed by the test or its makers.
 
