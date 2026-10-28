@@ -16,3 +16,6 @@
 [submodule "008-quentin"]
 	path = 008-quentin
 	url = https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-008-quentin.git
+[submodule "007-gus"]
+	path = 007-gus
+	url = https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-007-gus.git
