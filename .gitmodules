@@ -19,3 +19,6 @@
 [submodule "007-gus"]
 	path = 007-gus
 	url = https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-007-gus.git
+[submodule "006-vera"]
+	path = 006-vera
+	url = https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-006-vera.git
