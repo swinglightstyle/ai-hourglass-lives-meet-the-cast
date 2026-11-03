@@ -55,6 +55,7 @@ If you cloned without the episodes, fetch them with:
 - Episode 6, Vera: [ai-hourglass-lives-meet-the-cast-006-vera](https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-006-vera) in the folder `006-vera`. Video: https://youtu.be/BinkvdqkJAg
 - Episode 7, Gus: [ai-hourglass-lives-meet-the-cast-007-gus](https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-007-gus) in the folder `007-gus`. Video: https://youtu.be/2r4RdtXyJdI
 - Episode 8, Quentin: [ai-hourglass-lives-meet-the-cast-008-quentin](https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-008-quentin) in the folder `008-quentin`. Video: https://youtu.be/uKg_RHlcep8
+- Episode 9, Dax: [ai-hourglass-lives-meet-the-cast-009-dax](https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-009-dax) in the folder `009-dax`. Video: https://youtu.be/5soP2w-uKIs
 <!-- episodes:end -->
 
 ## Licence
