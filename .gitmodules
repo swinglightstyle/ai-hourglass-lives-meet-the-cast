@@ -40,3 +40,6 @@
 [submodule "014-ceto"]
 	path = 014-ceto
 	url = https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-014-ceto.git
+[submodule "015-hop"]
+	path = 015-hop
+	url = https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-015-hop.git
