@@ -31,3 +31,6 @@
 [submodule "010-cos"]
 	path = 010-cos
 	url = https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-010-cos.git
+[submodule "012-gen"]
+	path = 012-gen
+	url = https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-012-gen.git

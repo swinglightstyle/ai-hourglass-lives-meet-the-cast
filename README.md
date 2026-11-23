@@ -58,6 +58,7 @@ If you cloned without the episodes, fetch them with:
 - Episode 9, Dax: [ai-hourglass-lives-meet-the-cast-009-dax](https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-009-dax) in the folder `009-dax`. Video: https://youtu.be/5soP2w-uKIs
 - Episode 10, Cosima: [ai-hourglass-lives-meet-the-cast-010-cos](https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-010-cos) in the folder `010-cos`. Video: https://youtu.be/rKulwS49zmE
 - Episode 11, Finola: [ai-hourglass-lives-meet-the-cast-011-fin](https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-011-fin) in the folder `011-fin`. Video: https://youtu.be/pS6ZoSX76Y8
+- Episode 12, Geneva: [ai-hourglass-lives-meet-the-cast-012-gen](https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-012-gen) in the folder `012-gen`. Video: https://youtu.be/VHHWFCpM_rA
 <!-- episodes:end -->
 
 ## Licence
