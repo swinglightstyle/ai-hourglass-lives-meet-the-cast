@@ -37,3 +37,6 @@
 [submodule "013-cora"]
 	path = 013-cora
 	url = https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-013-cora.git
+[submodule "014-ceto"]
+	path = 014-ceto
+	url = https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-014-ceto.git
