@@ -43,3 +43,6 @@
 [submodule "015-hop"]
 	path = 015-hop
 	url = https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-015-hop.git
+[submodule "016-camo"]
+	path = 016-camo
+	url = https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-016-camo.git

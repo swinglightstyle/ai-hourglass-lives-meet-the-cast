@@ -62,6 +62,7 @@ If you cloned without the episodes, fetch them with:
 - Episode 13, Cora: [ai-hourglass-lives-meet-the-cast-013-cora](https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-013-cora) in the folder `013-cora`. Video: https://youtu.be/H4O9BY9H95o
 - Episode 14, Ceto: [ai-hourglass-lives-meet-the-cast-014-ceto](https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-014-ceto) in the folder `014-ceto`. Video: https://youtu.be/nblFRgHNPL4
 - Episode 15, Hop: [ai-hourglass-lives-meet-the-cast-015-hop](https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-015-hop) in the folder `015-hop`. Video: https://youtu.be/AjFlchM9Co4
+- Episode 16, Camo: [ai-hourglass-lives-meet-the-cast-016-camo](https://github.com/swinglightstyle/ai-hourglass-lives-meet-the-cast-016-camo) in the folder `016-camo`. Video: https://youtu.be/uLQRECXOZEw
 <!-- episodes:end -->
 
 ## Licence
